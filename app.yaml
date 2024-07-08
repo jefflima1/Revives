@@ -1,0 +1,6 @@
+domains:
+- php-wcgi-jefflima1.wasmer.app
+kind: wasmer.io/App.v0
+name: clipsjeffz-Revives
+owner: clipsjeffz
+package: .
